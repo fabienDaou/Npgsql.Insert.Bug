@@ -1,0 +1,13 @@
+# IDE generated
+TestResults
+.vs/
+
+# User config
+*.suo
+
+# Binary files
+bin/
+Bin/
+obj/
+*.class
+packages/
